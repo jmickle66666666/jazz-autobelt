@@ -1,0 +1,11 @@
+{
+  "name": "jazz-autobelt",
+  "version": "0.0.1",
+  "title": "queenjazz's AutoBelt",
+  "author": "Jazz Mickle",
+  "contact": "no",
+  "homepage": "http://www.jmickle.com/",
+  "description": "Automatically ghost print belts between two points.",
+  "factorio_version":"0.15",
+  "dependencies": ["base >= 0.13.0"]
+}
